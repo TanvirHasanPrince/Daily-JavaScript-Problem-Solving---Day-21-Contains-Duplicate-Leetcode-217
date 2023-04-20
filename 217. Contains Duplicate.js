@@ -51,6 +51,6 @@ function containsDuplicate2(nums) {
 
 const nums3 = [1, 2, 3, 4];
 const nums4 = [1, 2, 3, 1];
-console.log(containsDuplicate2(nums3)); // false
-console.log(containsDuplicate2(nums4)); // true
+console.log(containsDuplicate2(nums3)); 
+console.log(containsDuplicate2(nums4)); 
 
