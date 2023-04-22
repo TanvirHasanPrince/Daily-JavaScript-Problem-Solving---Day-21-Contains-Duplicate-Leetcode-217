@@ -33,7 +33,7 @@ const nums2 = [1, 2, 3, 1];
 console.log(containsDuplicate(nums1)); // false
 console.log(containsDuplicate(nums2)); // true
 
-//***********ANOTHER METHOD********////
+//***********ANOTHER METHOD with Sets********////
 
 function containsDuplicate2(nums) {
   const set = new Set(); // create an empty set
